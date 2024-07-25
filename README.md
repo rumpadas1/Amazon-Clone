@@ -11,8 +11,10 @@ This project is a static replica of the Amazon website, built using HTML and CSS
 
 ## Technologies Used
 
-- **HTML** ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
-- **CSS** ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
 
 ## Preview
 
