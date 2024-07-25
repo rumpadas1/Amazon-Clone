@@ -11,8 +11,8 @@ This project is a static replica of the Amazon website, built using HTML and CSS
 
 ## Technologies Used
 
-- **HTML**: Markup language for creating the structure of the web pages.
-- **CSS**: Stylesheet language for designing and laying out the web pages.
+- **HTML** ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+- **CSS** ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
 
 ## Preview
 
