@@ -1,4 +1,4 @@
-# Amazon Clone Web Application
+# Amazon Web Application Clone
 
 ## Description
 
