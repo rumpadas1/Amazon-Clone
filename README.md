@@ -16,7 +16,8 @@ This project is a static replica of the Amazon website, built using HTML and CSS
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-## Preview
+## Here's how it looks
 
-![Amazon Clone Preview](image.png)
+![Amazon Clone](https://github.com/rumpadas1/Amazon-Clone/blob/main/Screenshot%20(289).png)
+![Amazon clone]()
 
