@@ -19,5 +19,5 @@ This project is a static replica of the Amazon website, built using HTML and CSS
 ## Here's how it looks
 
 ![Amazon Clone](https://github.com/rumpadas1/Amazon-Clone/blob/main/Screenshot%20(289).png)
-![Amazon clone]()
+![Amazon clone](https://github.com/rumpadas1/Amazon-Clone/blob/main/Screenshot%20(291).png)
 
